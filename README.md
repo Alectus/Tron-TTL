@@ -1,5 +1,5 @@
 # Tron-TTL
-Trying to make a replica of the gigatron in simulide.
+Trying to make a replica of the gigatron in simulide. The numbers refer to the numbers of the schematics in the manual. For example: schematic 4-8 is page 51 in the manual where Id: 4/8 is pictured.
 
 https://gigatron.io/
 
